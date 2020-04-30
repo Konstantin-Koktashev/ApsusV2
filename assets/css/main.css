@@ -796,6 +796,10 @@ main h6 {
   position: relative;
   /* position: relative; */
 }
+.email-list article{
+  background: white;
+  border-bottom: 1px solid black;
+}
 
 /* Email Details */
 .sender-name {
@@ -1206,6 +1210,11 @@ header img {
 
 .desktop-nav-bar{
   display: none;
+
+}
+.desktop-nav-bar a{
+  background: white;
+  border-bottom: 1px solid black;
 }
 .mobile-navigation{
   display: block;

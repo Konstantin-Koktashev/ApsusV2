@@ -120,6 +120,5 @@ function remove(noteId) {
 }
 
 
-var x= 12
 
 
