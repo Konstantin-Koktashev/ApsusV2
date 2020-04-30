@@ -71,15 +71,15 @@ onCategoryChange={this.onCategoryChange}
 ></NavLinks>
 
         <Switch>
-          {/* <Route
+          <Route
             render={(props) => <EmailCompose {...props} />}
             path="/email/compose"
           />
           <Route
             render={(props) => <EmailInbox {...props} />}
             path="/email/inbox"
-          /> */}
-          <Route component={EmailDetails} exact path="/email/:emailId" />
+          />
+
           <Route
             render={(props) => {
               return (
