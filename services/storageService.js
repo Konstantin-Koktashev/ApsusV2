@@ -13,3 +13,4 @@ export const StorageServices= {
     store,
     load
 }
+var x='hello'
