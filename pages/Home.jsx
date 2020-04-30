@@ -15,12 +15,12 @@ export function Home(){
                 <button className="call-to-action-btn">Check Our Prices</button>
                </Link>
                 <section className="call-to-action-video">
-                    <img src="../assets/img/play.svg" alt=""/>
+                    <img src="assets/img/play.svg" alt=""/>
                     <h6>Watch The Video</h6>
                 </section>
             </div>
             <div className="hero-img">
-                <img src="../assets/img/skyline.jpg" alt=""/>
+                <img src="assets/img/skyline.jpg" alt=""/>
             </div>
         </main>
     )
